@@ -1,6 +1,6 @@
 # Link-Sniffer - Domain and Subdomain Discovery Tool
 
-Welcome to Domain Explorer, your ultimate solution for gathering detailed information about target domains! Uncover the structure of websites by discovering main domains and subdomains effortlessly. With Domain Explorer, you can enhance your cybersecurity assessments and reconnaissance activities with ease.
+Welcome to **Link-Sniffer**, your ultimate solution for gathering detailed information about target domains! Uncover the structure of websites by discovering main domains and subdomains effortlessly. With Link-Sniffer, you can enhance your cybersecurity assessments  with ease.
 
 ## Features
 
