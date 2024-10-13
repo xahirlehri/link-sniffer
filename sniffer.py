@@ -36,7 +36,7 @@ def banner():
          | |__ | || .` | ' <___\__ \ .` || || _|| _|| _||   / 
          |____|___|_|\_|_|\_\  |___/_|\_|___|_| |_| |___|_|_\\
     
-     Version {version}
+     Version {version} | GitHub: https://github.com/xahirlehri
      Created by Zahir Lehri
     '''
     print(b)
