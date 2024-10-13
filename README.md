@@ -12,11 +12,11 @@ Welcome to Domain Explorer, your ultimate solution for gathering detailed inform
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Run the `domain_explorer.py` script using Python.
+2. Run the `sniffer.py` script using Python.
 3. Enter your desired target domain and receive a comprehensive report instantly.
 
 ## Getting Started
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/xahirlehri/link-sniffer.git
+   git clone https://github.com/xahirlehri/Link-Sniffer.git
