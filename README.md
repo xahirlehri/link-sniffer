@@ -20,3 +20,16 @@ Welcome to Domain Explorer, your ultimate solution for gathering detailed inform
 1. Clone the repository:
    ```sh
    git clone https://github.com/xahirlehri/Link-Sniffer.git
+
+   ```
+2. Navigate to the directory:
+   ```sh
+   cd link-sniffer
+
+3. Install the required libraries:
+   ```sh
+   pip install -r requirements.txt
+4. Run the script:
+   ```sh
+   python sniffer.py
+
