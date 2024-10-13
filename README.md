@@ -21,3 +21,5 @@ You can install the required libraries using pip:
 pip install requests colorama
 
 git clone https://github.com/yourusername/domain-explorer.git
+
+```
