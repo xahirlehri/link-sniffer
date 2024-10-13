@@ -32,4 +32,16 @@ Welcome to **Link-Sniffer**, your ultimate solution for gathering detailed infor
 4. Run the script:
    ```sh
    python sniffer.py
+5. The main menu will be displayed:
+   ```sh
+          _    ___ _  _ _  __   ___ _  _ ___ ___ ___ ___ ___ 
+         | |  |_ _| \| | |/ /__/ __| \| |_ _| __| __| __| _ \
+         | |__ | || .` | ' <___\__ \ .` || || _|| _|| _||   / 
+         |____|___|_|\_|_|\_\  |___/_|\_|___|_| |_| |___|_|_\
+    
+     Version 1.2 | GitHub: https://github.com/xahirlehri
+     Created by Zahir Lehri
+   
+## Author
 
+Zahir Lehri | https://github.com/xahirlehri
