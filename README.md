@@ -1,25 +1,22 @@
-# Domain Explorer
+# Link-Sniffer - Domain and Subdomain Discovery Tool
 
-Domain Explorer is a command-line tool designed for cybersecurity professionals, researchers, and developers to gather detailed information about a target domain. The script automates the discovery of subdomains and resolves their IP addresses, helping users gain insights into the structure of websites.
+Welcome to Domain Explorer, your ultimate solution for gathering detailed information about target domains! Uncover the structure of websites by discovering main domains and subdomains effortlessly. With Domain Explorer, you can enhance your cybersecurity assessments and reconnaissance activities with ease.
 
 ## Features
 
-- **Subdomain Discovery:** Automatically retrieves a comprehensive list of subdomains linked to the target domain using Certificate Transparency logs.
-- **IP Address Resolution:** Resolves the corresponding IP addresses for discovered domains and subdomains.
-- **Timestamped CSV Export:** Generates a CSV file named after the target domain with a timestamp to ensure unique filenames.
-- **User-Friendly Interface:** Prompts users for the target domain and displays results clearly.
+- Automatically discover main domains and subdomains associated with a target domain using Certificate Transparency logs.
+- Resolve IP addresses for each discovered domain and subdomain.
+- Generate timestamped CSV files containing the results for easy record-keeping.
+- User-friendly command-line interface for straightforward configuration and execution.
 
-## Requirements
+## Usage
 
-- Python 3.x
-- `requests` library
-- `colorama` library
+1. Clone or download this repository to your local machine.
+2. Run the `domain_explorer.py` script using Python.
+3. Enter your desired target domain and receive a comprehensive report instantly.
 
-You can install the required libraries using pip:
+## Getting Started
 
-```bash
-pip install requests colorama
-
-git clone https://github.com/yourusername/domain-explorer.git
-
-```
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/xahirlehri/link-sniffer.git
