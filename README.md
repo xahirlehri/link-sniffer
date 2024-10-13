@@ -19,7 +19,7 @@ Welcome to **Link-Sniffer**, your ultimate solution for gathering detailed infor
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/xahirlehri/Link-Sniffer.git
+   git clone https://github.com/xahirlehri/link-sniffer.git
 
    ```
 2. Navigate to the directory:
