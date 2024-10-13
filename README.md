@@ -19,53 +19,5 @@ You can install the required libraries using pip:
 
 ```bash
 pip install requests colorama
-Usage
-Clone the Repository:
 
-Use the following command to clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/domain-explorer.git
-Replace yourusername with your GitHub username.
-
-Navigate to the Directory:
-
-Change to the directory containing the script:
-
-bash
-Copy code
-cd domain-explorer
-Run the Script:
-
-Execute the script using Python:
-
-bash
-Copy code
-python domain_explorer.py
-You will be prompted to enter the target domain.
-
-Example Command
-bash
-Copy code
-python domain_explorer.py
-Output
-The script will display the discovered main domains and subdomains along with their IP addresses. Additionally, a CSV file named example.com_YYYYMMDD_HHMMSS.csv will be created in the same directory, containing the results.
-
-Contributing
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Special thanks to all contributors and users for their support and feedback.
-python
-Copy code
-
-### Instructions:
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Make sure to create and include a LICENSE file if you're planning to distribute the project under a specific license.
-- Feel free to customize or add sections as necessary to fit your project's needs.
-
-Let me know if you need any more changes or additions!
